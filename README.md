@@ -1,4 +1,4 @@
-<img src="https://www.sayitlike.me/img/logo-no-text.svg" width="200">
+<0img src="https://www.sayitlike.me/img/logo-no-text.svg" width="200">
 Sayitlike.me
 ===
 Is a free and open source service to help us with pronouncing each other's names. Pleas see it live at: https://SayItLike.Me
@@ -43,3 +43,9 @@ Now you need a web server to serve static files located at public- folder. It sh
 to proxy other requests to the nodejs you have already started at http://127.0.0.1:8000
 
 After those steps you can start contributiong!
+
+contributiongcontributiongcontributiongcontributiongcontributiongcontributiongcontributiongcontributiongcontributiongcontributiongcontributiongcontributiongcontributiong
+
+contributiongcontributiongcontributiongcontributiongcontributiongcontributiongcontributiongcontributiongcontributiongcontributiongcontributiongcontributiongcontributiong
+contributiongcontributiongcontributiongcontributiongcontributiongcontributiongcontributiongcontributiongcontributiongcontributiongcontributiongcontributiongcontributiong
+contributiongcontributiongcontributiongcontributiongcontributiongcontributiongcontributiongcontributiongcontributiongcontributiongcontributiongcontributiongcontributiong
